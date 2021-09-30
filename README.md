@@ -29,7 +29,7 @@ React was released by Facebook in 2013 and is usedby many big names (WhatsApp,
 Instagram, Tesla...). It is responsible for the logicand the interface.
 ```
 ```
-Material-UI includes React components for faster andeasier web development. As a result,
+Material-UI includes React components for faster and easier web development. As a result,
 we get a beautiful and optimized user interface.
 Material-UI is a version of "Material-Design" createdfor React.
 Material-Design is a design standard invented by Google.
