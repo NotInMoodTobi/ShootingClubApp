@@ -1,0 +1,43 @@
+.BottomNavigation {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+#AppBar {
+    background: rgb(255 172 20);
+    justify-content: left;
+    align-items: left;
+}
+
+.userSearchField {}
+
+.userList {
+    display: contents;
+    width: 100%;
+    height: auto;
+}
+
+.App-header {
+    z-index: 100;
+    top: 0;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+}
+
+.App-Logo {
+    max-width: 50vh;
+    width: 30vh;
+    height: auto;
+    padding-top: 4px;
+    padding-bottom: 2px;
+    padding-left: 14px;
+}
+
+.multipleChoice {
+    width: 30vh
+}

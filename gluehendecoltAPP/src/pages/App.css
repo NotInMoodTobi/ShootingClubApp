@@ -1,0 +1,46 @@
+.App {}
+
+.App-Body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 60px;
+    padding-right: 32px;
+    padding-left: 32px;
+}
+
+.userAddBody {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h3 {
+    font-family: consolas;
+    margin: 0;
+}
+
+.Padding {
+    padding: 30px;
+    margin: 30px;
+}
+
+.SaveButton {
+    position: fixed;
+    bottom: 10%;
+    left: 65%;
+    width: 100%;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
