@@ -1,7 +1,7 @@
 ## UI
 
-![MainUI](./public/MainUI.png)
-![AddUserUI](./public/AddUser.png)
+![MainUI](./gluehendecoltAPP/public/MainUI.png)
+![AddUserUI](./gluehendecoltAPP/public/AddUser.png)
 
 # Glühende Colt WebApp
 
